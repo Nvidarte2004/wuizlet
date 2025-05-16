@@ -53,6 +53,7 @@ MIDDLEWARE = [
 ]
 
 
+
 ROOT_URLCONF = 'flashcards.urls'
 
 TEMPLATES = [
