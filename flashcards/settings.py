@@ -123,7 +123,7 @@ import os
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-ALLOWED_HOSTS = ['wuizlet.onrender.com', 'wuizlet.yourstrulynatalie.com']  # or your custom domain
+ALLOWED_HOSTS = ['wuizlet.onrender.com', 'wuizlet.yourstrulynatalie.com'] 
 
 # For collectstatic command
 
